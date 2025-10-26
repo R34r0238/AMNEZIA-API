@@ -1,0 +1,4 @@
+aiohttp==3.8.6
+aiofiles==24.1.0
+pytz==2024.2
+humanize==4.11.0
